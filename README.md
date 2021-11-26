@@ -1,2 +1,0 @@
-# casualcoding
-Beginner level coding
